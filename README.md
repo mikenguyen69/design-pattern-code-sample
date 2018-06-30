@@ -1,5 +1,5 @@
 # design-pattern-code-sample
-A repository contain all popular 23 GoF design patterns implementation and real life examples 
+A repository contain all popular 23 GoF design patterns implementation and real life examples. It aims to demonstrate the practical of TDD when implementing the design patterns ;). Two Best of both Dev Worlds 
 
 ## Structure Patterns
 ### S1. Proxy 
