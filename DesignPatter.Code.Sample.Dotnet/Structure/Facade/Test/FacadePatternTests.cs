@@ -1,7 +1,7 @@
 ﻿using FluentAssertions;
 using Xunit;
 
-namespace DesignPatter.Code.Sample.Dotnet.Structure.Facade.Tests
+namespace DesignPatter.Code.Sample.Dotnet.Structure.Facade.Test
 {    
     public class FacadePatternTests
     {        

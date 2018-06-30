@@ -21,7 +21,6 @@
     <Folder Include="Structure\Bridge\Sample\" />
     <Folder Include="Structure\Bridge\Test\" />
     <Folder Include="Structure\Flyweight\Sample\" />
-    <Folder Include="Structure\Flyweight\Test\" />
     <Folder Include="Structure\Decorator\Sample\" />
     <Folder Include="Structure\Decorator\Test\" />
     <Folder Include="Structure\Proxy\Sample\" />
