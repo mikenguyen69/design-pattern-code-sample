@@ -26,7 +26,6 @@
     <Folder Include="Structure\Proxy\Sample\" />
     <Folder Include="Structure\Facade\Sample\" />
     <Folder Include="Structure\Adapter\Sample\" />
-    <Folder Include="Structure\Adapter\Test\" />
     <Folder Include="Structure\Composite\Test\" />
     <Folder Include="Structure\Composite\Sample\" />
   </ItemGroup>
