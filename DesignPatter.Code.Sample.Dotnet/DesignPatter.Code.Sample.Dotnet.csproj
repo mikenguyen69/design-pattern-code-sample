@@ -19,7 +19,6 @@
     <Folder Include="Creation\" />
     <Folder Include="Behavior\" />
     <Folder Include="Structure\Bridge\Sample\" />
-    <Folder Include="Structure\Bridge\Test\" />
     <Folder Include="Structure\Flyweight\Sample\" />
     <Folder Include="Structure\Decorator\Sample\" />
     <Folder Include="Structure\Decorator\Test\" />
