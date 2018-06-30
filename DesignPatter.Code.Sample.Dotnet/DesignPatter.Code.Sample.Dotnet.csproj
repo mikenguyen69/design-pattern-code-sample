@@ -8,10 +8,29 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="FluentAssertions" Version="5.4.1" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.7.0" />
     <PackageReference Include="xunit" Version="2.3.1" />
     <PackageReference Include="xunit.runner.visualstudio" Version="2.3.1" />
     <DotNetCliToolReference Include="dotnet-xunit" Version="2.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Creation\" />
+    <Folder Include="Behavior\" />
+    <Folder Include="Structure\Bridge\Sample\" />
+    <Folder Include="Structure\Bridge\Test\" />
+    <Folder Include="Structure\Flyweight\Sample\" />
+    <Folder Include="Structure\Flyweight\Test\" />
+    <Folder Include="Structure\Decorator\Sample\" />
+    <Folder Include="Structure\Decorator\Test\" />
+    <Folder Include="Structure\Proxy\Sample\" />
+    <Folder Include="Structure\Proxy\Test\" />
+    <Folder Include="Structure\Facade\Sample\" />
+    <Folder Include="Structure\Adapter\Sample\" />
+    <Folder Include="Structure\Adapter\Test\" />
+    <Folder Include="Structure\Composite\Test\" />
+    <Folder Include="Structure\Composite\Sample\" />
   </ItemGroup>
 
 </Project>
