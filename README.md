@@ -9,3 +9,9 @@ The proxy can be implented as interface or concrete class and it must containg t
 ### S2. Flyweight
 Serve a large number of request for an object by sharing its existing instance. 
 FlyweightFactory should know its flywieght instance state hence first look for un-used object else created the new one
+
+### S3. Proxy
+Proxy allow access to target objet hence want to route all calls through a placeholders. It hides creation of configuration process of the target object from the client due to complexity involved. It also dynamically change the target object without affecting client code. Target objet is not going to be available at the dev time, it provides option for your to connect to the target only at run time. 
+
+### S4. Adapter
+Adapter is used when new class has incompatible design comparing to the existing one. Hence the adapter is used to convert the interfaces of the existing class into another interface as expected by client app
