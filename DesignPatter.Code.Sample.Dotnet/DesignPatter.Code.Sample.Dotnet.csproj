@@ -24,7 +24,6 @@
     <Folder Include="Structure\Decorator\Sample\" />
     <Folder Include="Structure\Decorator\Test\" />
     <Folder Include="Structure\Proxy\Sample\" />
-    <Folder Include="Structure\Proxy\Test\" />
     <Folder Include="Structure\Facade\Sample\" />
     <Folder Include="Structure\Adapter\Sample\" />
     <Folder Include="Structure\Adapter\Test\" />
