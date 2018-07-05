@@ -24,3 +24,19 @@ Composite allows to create data in a tree structure that a single item and a gro
 
 ### S7. Decorator 
 Decorator add extra funcitonality to an object dynamically. 
+
+## Creational Patterns
+### C1. Singleton
+Ensure that only one instance of a class is created 
+
+### C2. Factory Method
+Create instance of one of the several class
+
+### C3. Abstract Factory 
+Create instances of a family of related classes
+
+### C4. Builder 
+Separated object construction from its representation. 
+
+### C5. Prototype
+Creates an instance of a class that is a copy or clone of an existing instance. Deep or shallow copy.
