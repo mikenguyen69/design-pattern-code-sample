@@ -16,8 +16,18 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Behavior\Command\" />
+    <Folder Include="Behavior\Mediator\" />
+    <Folder Include="Behavior\ChainOfResponsibility\" />
+    <Folder Include="Behavior\Interpreter\" />
+    <Folder Include="Behavior\Iterator\" />
+    <Folder Include="Behavior\Memento\" />
+    <Folder Include="Behavior\Observer\Sample\" />
+    <Folder Include="Behavior\Visitor\" />
+    <Folder Include="Behavior\TemplateMethod\" />
+    <Folder Include="Behavior\State\" />
+    <Folder Include="Behavior\Strategy\" />
     <Folder Include="Creation\" />
-    <Folder Include="Behavior\" />
     <Folder Include="Structure\Bridge\Sample\" />
     <Folder Include="Structure\Flyweight\Sample\" />
     <Folder Include="Structure\Decorator\Sample\" />
