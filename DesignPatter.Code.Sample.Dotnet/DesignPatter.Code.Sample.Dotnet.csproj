@@ -16,7 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Behavior\Mediator\" />
     <Folder Include="Behavior\ChainOfResponsibility\" />
     <Folder Include="Behavior\Interpreter\" />
     <Folder Include="Behavior\Iterator\" />
