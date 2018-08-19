@@ -16,7 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Behavior\Command\" />
     <Folder Include="Behavior\Mediator\" />
     <Folder Include="Behavior\ChainOfResponsibility\" />
     <Folder Include="Behavior\Interpreter\" />
@@ -35,6 +34,18 @@
     <Folder Include="Structure\Facade\Sample\" />
     <Folder Include="Structure\Adapter\Sample\" />
     <Folder Include="Structure\Composite\Sample\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="System">
+      <HintPath>System</HintPath>
+    </Reference>
+    <Reference Include="System.Data">
+      <HintPath>System.Data</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <HintPath>System.Drawing</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
