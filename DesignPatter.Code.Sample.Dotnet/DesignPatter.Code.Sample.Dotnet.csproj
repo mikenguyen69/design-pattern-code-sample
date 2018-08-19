@@ -25,7 +25,6 @@
     <Folder Include="Behavior\Visitor\" />
     <Folder Include="Behavior\TemplateMethod\" />
     <Folder Include="Behavior\State\" />
-    <Folder Include="Behavior\Strategy\" />
     <Folder Include="Creation\" />
     <Folder Include="Structure\Bridge\Sample\" />
     <Folder Include="Structure\Flyweight\Sample\" />
