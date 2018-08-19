@@ -39,7 +39,8 @@ namespace DesignPatter.Code.Sample.Dotnet.Behavior.Command
 
         public override void Execute()
         {
-            message = receiver.Action();
+            //message = receiver.Action();
+            throw new Exception("Not implemented");
         }
 
         public override void Undo()
