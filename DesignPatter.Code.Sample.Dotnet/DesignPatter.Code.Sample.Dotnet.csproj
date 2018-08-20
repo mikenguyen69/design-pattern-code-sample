@@ -23,7 +23,6 @@
     <Folder Include="Behavior\Observer\Sample\" />
     <Folder Include="Behavior\Visitor\" />
     <Folder Include="Behavior\TemplateMethod\" />
-    <Folder Include="Creation\" />
     <Folder Include="Structure\Bridge\Sample\" />
     <Folder Include="Structure\Flyweight\Sample\" />
     <Folder Include="Structure\Decorator\Sample\" />
